@@ -3,5 +3,5 @@
 Shortest Path Algorithm on a 2D Array.
 
 <p align="center">
-  <img width="480" height="360" src="images\Grid.png">
+  <img width="480" height="360" src="images\Grid_Path.png">
 </p>
